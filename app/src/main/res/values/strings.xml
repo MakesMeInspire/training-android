@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Training Android</string>
+
+    <string-array name="transportasi">
+        <item>Motor</item>
+        <item>Mobil</item>
+        <item>Kendaraan Umum</item>
+        <item>Ojek</item>
+        <item>Jalan Kaki</item>
+    </string-array>
+
+</resources>
